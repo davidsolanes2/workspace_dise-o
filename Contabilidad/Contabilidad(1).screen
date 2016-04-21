@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="32" y="24" width="577" height="401" text="Browser&#xA;http://..." measuredWidth="577" measuredHeight="401">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="10" x="48" y="176" measuredWidth="339" measuredHeight="236">
+    <screen xsi:type="model:WidgetGroup" href="assets/Bootstrap2/Bootstrap.screen#Nav%20List"/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="12" x="64" y="86" measuredWidth="460" measuredHeight="61">
+    <screen xsi:type="model:WidgetGroup" href="assets/Bootstrap2/Bootstrap.screen#Page%20Header"/>
+  </widgets>
+  <widgets xsi:type="model:Note" id="15" x="494" y="272" width="243" height="153" text="Introduccion general de datos del programa, los iconos seran libros " measuredWidth="243" measuredHeight="153">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="-48" y="-32" width="1297" height="745" text="Browser&#xA;http://..." measuredWidth="1297" measuredHeight="745">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" y="64" width="1057" height="441" measuredWidth="1057" measuredHeight="441"/>
+  <widgets xsi:type="model:Label" id="5" x="48" y="208" text="Nombre :" measuredWidth="54" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="7" x="101" y="208" text="Text field" measuredWidth="61" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="8" x="101" y="248" text="Text field" measuredWidth="61" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:CoverFlow" id="9" x="608" y="278" width="329" measuredWidth="329" measuredHeight="125"/>
+  <widgets xsi:type="model:TextField" id="10" x="101" y="288" text="Text field" measuredWidth="61" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="336" y="96" text="Registro de Usuarios" measuredWidth="407" measuredHeight="65">
+    <font size="43px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="704" y="240" text="Seleccion de articulos" measuredWidth="127" measuredHeight="24">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

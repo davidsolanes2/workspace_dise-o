@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="32" y="56" width="577" height="401" text="Browser&#xA;http://..." measuredWidth="577" measuredHeight="401">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="12" x="64" y="118" measuredWidth="468" measuredHeight="61">
+    <screen xsi:type="model:WidgetGroup" href="assets/Bootstrap2/Bootstrap.screen#Page%20Header"/>
+    <overrides>
+      <widgets ref="141" text="Page header ~%(font:25)Entrada de Apuntes%~"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="14" x="104" y="176" height="255" measuredWidth="6" measuredHeight="255"/>
+  <widgets xsi:type="model:Panel" id="15" x="152" y="187" width="361" height="230" measuredWidth="361" measuredHeight="230"/>
+  <widgets xsi:type="model:TextField" id="16" x="221" y="208" text="Text field" measuredWidth="60" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="17" x="221" y="240" text="Text field" measuredWidth="60" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="18" x="221" y="272" text="Text field" measuredWidth="60" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="19" x="56" y="248" measuredWidth="32" measuredHeight="32" icon="assets/mdl-folder (large)"/>
+  <widgets xsi:type="model:Icon" id="20" x="56" y="297" measuredWidth="32" measuredHeight="32" icon="assets/mdl-folder (large)"/>
+  <widgets xsi:type="model:Icon" id="21" x="56" y="205" measuredWidth="32" measuredHeight="32" icon="assets/mdl-folder (large)"/>
+  <widgets xsi:type="model:Icon" id="22" x="56" y="343" measuredWidth="32" measuredHeight="32" icon="assets/mdl-folder (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="32" y="24" width="577" height="401" text="Browser&#xA;http://..." measuredWidth="577" measuredHeight="401">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="3" x="256" y="168" width="100" height="100" dimmed="true"/>
+  <widgets xsi:type="model:TextField" id="6" x="272" y="280" text="Text field" measuredWidth="60" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="7" x="344" y="279" text="OK" measuredWidth="37" measuredHeight="27">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Note" id="8" x="272" y="381" width="233" height="92" text="Pagina principal para logearse" measuredWidth="233" measuredHeight="92">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Arrow" id="9" x="368" y="192" width="129" height="9" measuredWidth="129" measuredHeight="9" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Note" id="10" x="504" y="160" width="121" height="73" text="Icono en tres dimensiones con movimiento" measuredWidth="121" measuredHeight="73">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

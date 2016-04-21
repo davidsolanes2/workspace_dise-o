@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="-16" y="64" width="1265" height="793" text="Browser&#xA;http://..." measuredWidth="1265" measuredHeight="793">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="368" y="136" text="Amigo Invisible" measuredWidth="301" measuredHeight="65">
+    <font size="43px"/>
+  </widgets>
+  <widgets xsi:type="model:Accordion" id="5" x="901" y="640" height="199" text="Item One&#xA;-Sub-Item 1.1&#xA;-Sub-Item 1.2&#xA;-Sub-Item 1.3&#xA;Item Two&#xA;Item Three&#xA;Item Four" measuredWidth="100" measuredHeight="199" selection="0">
+    <items x="0" y="2" width="100" height="26" text="Item One"/>
+    <items x="0" y="28" width="100" height="26" text="-Sub-Item 1.1"/>
+    <items x="0" y="54" width="100" height="26" text="-Sub-Item 1.2"/>
+    <items x="0" y="80" width="100" height="26" text="-Sub-Item 1.3"/>
+    <items x="0" y="121" width="100" height="26" text="Item Two"/>
+    <items x="0" y="147" width="100" height="26" text="Item Three"/>
+    <items x="0" y="173" width="100" height="26" text="Item Four"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VideoPlayer" id="6" y="216" width="1007" height="377" measuredWidth="1007" measuredHeight="377"/>
+  <widgets xsi:type="model:Panel" id="7" x="768" y="640" height="199" measuredWidth="100" measuredHeight="199"/>
+  <widgets xsi:type="model:Note" id="8" x="736" y="664" text="Panel, al pasar el raton&#xA;por encima y clikar sera&#xA;activado y podremos&#xA;seleccionar las opciones" measuredWidth="155" measuredHeight="78">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="10" y="616" width="441" height="223" measuredWidth="441" measuredHeight="223"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

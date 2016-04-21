@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="32" y="24" width="577" height="401" text="Browser&#xA;http://..." measuredWidth="577" measuredHeight="401">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="12" x="64" y="86" measuredWidth="460" measuredHeight="61">
+    <screen xsi:type="model:WidgetGroup" href="assets/Bootstrap2/Bootstrap.screen#Page%20Header"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="14" x="104" y="146" height="255" measuredWidth="6" measuredHeight="255"/>
+  <widgets xsi:type="model:Panel" id="15" x="152" y="187" width="361" height="182" measuredWidth="361" measuredHeight="182"/>
+  <widgets xsi:type="model:Icon" id="18" x="56" y="209" measuredWidth="32" measuredHeight="32" icon="assets/mdl-folder (large)"/>
+  <widgets xsi:type="model:Icon" id="19" x="56" y="258" measuredWidth="32" measuredHeight="32" icon="assets/mdl-folder (large)"/>
+  <widgets xsi:type="model:Icon" id="20" x="56" y="166" measuredWidth="32" measuredHeight="32" icon="assets/mdl-folder (large)"/>
+  <widgets xsi:type="model:Icon" id="21" x="56" y="304" measuredWidth="32" measuredHeight="32" icon="assets/mdl-folder (large)"/>
+  <widgets xsi:type="model:Note" id="22" x="232" y="216" width="265" height="113" text="Datos del libro que se abre, en este caso nos ocuparemos de rellenar las fichas que corresponda" measuredWidth="265" measuredHeight="113">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
